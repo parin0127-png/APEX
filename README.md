@@ -12,14 +12,13 @@
 ---
 
 ## 📸 Preview
-
 | Dashboard | Auto Mode | Code Generation |
 |-----------|-----------|----------------|
-| ![Dashboard](assets/APEX.png) | ![Auto](assets/auto.png) | ![Code](assets/code.png) |
+| ![Dashboard](https://raw.githubusercontent.com/parin0127-png/APEX/main/assets/APEX.png) | ![Auto](https://raw.githubusercontent.com/parin0127-png/APEX/main/assets/auto.png) | ![Code](https://raw.githubusercontent.com/parin0127-png/APEX/main/assets/code.png) |
 
 | GitHub | RAG Search | Analyze & Test |
 |--------|-----------|----------------|
-| ![GitHub](assets/github.png) | ![RAG](assets/rag.png) | ![Test](assets/test.png) |
+| ![GitHub](https://raw.githubusercontent.com/parin0127-png/APEX/main/assets/github.png) | ![RAG](https://raw.githubusercontent.com/parin0127-png/APEX/main/assets/rag.png) | ![Test](https://raw.githubusercontent.com/parin0127-png/APEX/main/assets/test.png) |
 
 ---
 

@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "apex-coder"
-version = "1.0.0"
+version = "1.0.2"
 description = "APEX - AI powered terminal coding assistant"
 authors = [{name = "Parin Prajapati", email = "parin0127@gmail.com"}]
 readme = "README.md"
@@ -34,3 +34,8 @@ apex = "apex.agent.main:main"
 
 [project.urls]
 Homepage = "https://github.com/parinprajapati/apex"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["apex*"]
+exclude = ["assets*"]
