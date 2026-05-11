@@ -175,7 +175,7 @@ APEX detects and blocks dangerous commands like `rm -rf`, `format`, `drop table`
 **Parin Prajapati**
 - 📧 parin0127@gmail.com
 - 🐙 [GitHub](https://github.com/parinprajapati)
-- 🎂 Age: 19
+- Linked in Acc -> [Linkedin](https://www.linkedin.com/in/parin-prajapati-5b0579376/?trk=opento_sprofile_topcard)
 
 ---
 
